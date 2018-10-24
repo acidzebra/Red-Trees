@@ -117,7 +117,7 @@ biome_lib:register_generate_plant({
     surface = "default:dirt_with_grass",
     max_count = 30,
     avoid_nodes = {"group:tree", "default:sand"},
-    avoid_radius = 5,
+    avoid_radius = 10,
     rarity = 75,
     seed_diff = 666,
     min_elevation = 6,
